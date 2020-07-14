@@ -2,8 +2,9 @@
 
 <!--
 **fajar7xx/fajar7xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Im just a Full Stack Web Devs:
+## Im just a Full Stack Web Devs:
 
 - 🔭 I’m currently working on a Consultant IT in Medan as a Full Stack Web Dev but now focus laravel backend
 - 🌱 I’m currently learning Php Laravel, software architechture, devops, mysql or postgresql
@@ -13,7 +14,6 @@ Im just a Full Stack Web Devs:
 - 📫 How to reach me:  contact me ya
 - 😄 Pronouns: serious man
 - ⚡ Fun fact: im 190cm height,
--->
 
 
 ## Get in touch
