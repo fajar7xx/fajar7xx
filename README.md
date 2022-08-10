@@ -18,6 +18,5 @@
 ## Get in touch
 - Email: fajar7xx@gmail.com for general
 - Blog : www.fajarsiagian.com
-- Web : www.fajarsiagian.site
 
 <br/>
